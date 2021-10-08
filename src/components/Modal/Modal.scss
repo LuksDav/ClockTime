@@ -1,0 +1,91 @@
+.modal-container {
+  background: rgba(242, 243, 245, 0.8);
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  z-index: 1000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  .modal-content {
+    width: 45rem;
+    height: 33rem;
+    padding: 2rem 3rem;
+    border-radius: 20px;
+    box-shadow: 0 0 60px rgba(0, 0, 0, 0.05);
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    background: white;
+  
+    button.Close{
+      margin: 0 0.5rem;
+      width: 2.5rem;
+      height: 2.5rem;
+      border-radius: 10px;
+      border: none;
+      position: relative;
+      right: calc(-100% + 3rem);
+      top: 16px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      background: #F9FBFC;
+      box-shadow: 0px 0px 0px 2px #6666FE;
+      color: #6666FE;
+      font: 500 1rem Roboto, sans-serif;
+  
+      opacity: 0.7;
+  
+      transition: all 0.3s;
+  
+      &:hover{
+        opacity: 0.9;
+      }
+    }
+
+    
+    #container-region{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      margin-top: 3.5rem;
+
+      .regions{
+
+        button{
+          width: 12rem;
+          height: 4rem;
+          
+          margin:0 5rem 2rem 5rem;
+
+          background: #F9FBFC;
+          border: none;
+          border-radius: 5px;
+          box-shadow: 0px 0px 0px 2px #6666FE;
+          color: #6666FE;
+          opacity: 0.8;
+          cursor: pointer;
+
+          transition: all 0.5;
+
+          &:hover{
+            background: #6666FE;
+            box-shadow: none;
+            color: #F9FBFC;
+            opacity: 1;
+          }
+        }
+      }
+    }
+  }
+}
+
+

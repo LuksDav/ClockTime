@@ -1,0 +1,34 @@
+[
+  {
+    "local": "America/Sao_Paulo",
+    "Description": "Brasília, Brasil"
+  },
+  {
+    "local": "America/Noronha",
+    "Description": "Fernando de Noronha, Brasil"
+  },
+  {
+    "local": "America/Manaus",
+    "Description": "Amazonas, Brasil"
+  },
+  {
+    "local": "America/Rio_Branco",
+    "Description": "Acre, Brasil"
+  },
+  {
+    "local": "Asia/Tokyo",
+    "Description": "Tóquio, JP"
+  },
+  {
+    "local": "America/New_York",
+    "Description": "Nova York, USA"
+  },
+  {
+    "local": "Europe/London",
+    "Description": "Londres, UK"
+  },
+  {
+    "local": "Europe/Lisbon",
+    "Description": "Lisboa, PT"
+}
+]

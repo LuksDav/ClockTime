@@ -1,70 +1,36 @@
-# Getting Started with Create React App
+# Clock <img src="./public/favicon.svg" style="width: 1.8rem; height: 1.8rem;" />
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h4 align="center">
+  🚧 Projeto Clock e ReadMe 🚀 Em Construção 🚧
+</h4>
 
-## Available Scripts
+## Sobre
 
-In the project directory, you can run:
+Um aplicativo de relógio, com horário de algumas regiões já definido. O aplicativo foi construído em cima das bibliotecas:
+  - [Momentjs](https://momentjs.com/) utilizada para configuração de Data e Hora; e
+  - [Momentjs Timezone](https://momentjs.com/timezone/) utilizada como base dos horários padrões das regiões mundiais.
 
-### `yarn start`
+Esse projeto teve inicio com a junção de um simples projeto de relógio e a curiosidade de utilizar as bibliotecas acima citadas. 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### `Versão 01`
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Nessa primeira versão é encontrado como interação apenas a alteração dos horários pré-definidos.
 
-### `yarn test`
+<h1 align="center">
+  <img alt="Clock" title="Clock" src="./src/assets/gifs/Clock.gif">
+</h1>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### `Itens que foram ou serão adicionados`
 
-### `yarn build`
+- [x] Usuário escolher o horário de uma região pré-definida
+- [ ] Fazer a versão responsiva para mobile
+- [ ] Deixar o usuário escolher qualquer região
+- [ ] Adicionar o tema Dark
+- [ ] Criação de funções úteis no dia a dia (Como cronômetro, pomodoro e despertador)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+#
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p align="center">
+  Feito com 💜 por Lucas David 👋 <br/>
+  Aproveitando que tal dar uma olhadinha no meu <a target="_blank" href="https://www.linkedin.com/in/lucasdav/">LinkedIn</a> 🌠
+</p>
