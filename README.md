@@ -1,4 +1,4 @@
-# Clock <img src="./public/favicon.svg" style="width: 1.8rem; height: 1.8rem;" />
+# Clock <img src="./public/favicon.svg" style="width: 30px; height: 30px;" />
 
 <h4 align="center">
   🚧 Projeto Clock e ReadMe 🚀 Em Construção 🚧
